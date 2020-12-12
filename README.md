@@ -1,5 +1,6 @@
+![Chocolatey Version](https://img.shields.io/chocolatey/v/ytt)
 
-* Install: Grab prebuilt binaries from the [Releases page](https://github.com/vmware-tanzu/carvel-ytt/releases)
+* Install: Grab prebuilt binaries from the [Releases page](https://github.com/vmware-tanzu/carvel-ytt/releases) or [install it with chocolatey](https://chocolatey.org/packages/ytt/) for Windows
 * Play: Jump right in by trying out the [online playground](https://get-ytt.io/#playground)
 * For more information about annotations, data values, overlays and other features see [Docs](https://github.com/vmware-tanzu/carvel-ytt/tree/develop/docs) page
 * Slack: [#carvel in Kubernetes slack](https://slack.kubernetes.io/)
